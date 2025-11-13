@@ -5,8 +5,8 @@
 }
 
 :root {
-  --bg-pale: #f0f4f0;
-  --bg-light: #ffffff;
+  --bg-pale: white;
+  --bg-light: white;
 }
 
 html,
